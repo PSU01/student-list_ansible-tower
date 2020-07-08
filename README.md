@@ -7,4 +7,4 @@
 This repository is used to demonstrate how to use Jenkinsfile to build pipeline
 
 by Patrick SUNDAY (pattsund1@yahoo.fr)
-AN EAZYTRAINING Devops Training Courses
+AN EAZYTRAINING Devops Training Courses using tower to run ansible
